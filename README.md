@@ -11,5 +11,7 @@ This tutorial will create ASP.NET web application with Web Form which displays a
 
 Your Crystal Report will be like 
 
-![crystal report on web page](http://dotnetmentors.com/Images/CustomerOrderASPX.png)
+![crystal report on web page](https://geeksarray.com/images/blog/CustomerOrderASPX.png)
+
+For more details[visit blog](https://geeksarray.com/blog/crystal-report-with-sql-stored-procedure-parameter-and-visual-studio)
 
