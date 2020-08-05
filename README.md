@@ -13,5 +13,5 @@ Your Crystal Report will be like
 
 ![crystal report on web page](https://geeksarray.com/images/blog/CustomerOrderASPX.png)
 
-For more details[visit blog](https://geeksarray.com/blog/crystal-report-with-sql-stored-procedure-parameter-and-visual-studio)
+For more details [visit blog](https://geeksarray.com/blog/crystal-report-with-sql-stored-procedure-parameter-and-visual-studio)
 
